@@ -1,17 +1,3 @@
-** 
-👋 Hi, I'm dorapan163!
-🎮 游走在代码、硬件与 AI 之间的迷幻像素探索者
-🔭 专注领域：软件开发宇宙、创意硬件星球（仿生机器人相关）、AI 应用星际开发
-🌱 探索中：深度学习模型优化、爬虫架构升级、柔性致动器技术（仿生机器人骨骼驱动核心）
-💬 技术突破：正在研究柔性致动器专利（用于仿生机器人骨骼驱动），欢迎交流技术或组队合作！
-🚀 座右铭：用代码构建技术幻境，用硬件实现创意具象，让 AI 连接多元宇宙
-
-🚀 我的代表项目（迷幻像素主题卡片）
-🛸 项目名称
-🌌 项目简介
-🔧 技术栈
-📡 相关链接
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=dorapan163%27s%20GitHub&fontSize=40&fontAlignY=35)
 
 <p align="center">
@@ -27,7 +13,7 @@
 
 ---
 
-### 🚀 我的代表项目
+### 🚀 我的代表项目 🚀 
 
 | 项目 | 简介 | 技术栈 | 相关链接 |
 | ---- | ---- | ------ | ------- |
@@ -39,7 +25,7 @@
 
 ---
 
-### 🛠 技术栈
+### 🛠 技术栈🌌
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/-Scrapy-6BA539?logo=scrapy&logoColor=white)
@@ -61,6 +47,6 @@
 
 ### 🔗 联系方式
 
-- Email: yourmail@example.com
-- Blog/主页: [你的博客/主页链接]
+- 🛸Email: yourmail@example.com
+- 📡Blog/主页: [你的博客/主页链接]
 
