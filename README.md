@@ -31,13 +31,13 @@
 ### 🛠 技术栈🌌
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Scrapy](https://img.shields.io/badge/-Scrapy-6BA539?logo=scrapy&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) 
+![iOS](https://img.shields.io/badge/-iOS-0071E3?logo=ios&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![LLM](https://img.shields.io/badge/-LLM-4B0082?logo=OpenAI&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84,FF69B4?logo=android&logoColor=white) 
-![iOS](https://img.shields.io/badge/-iOS-0071E3,4B0082?logo=ios&logoColor=white)
+
 
 ---
 
