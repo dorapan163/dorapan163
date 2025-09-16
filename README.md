@@ -52,6 +52,6 @@
 
 ### 🔗 联系方式
 
-- 🛸Email: yourmail@example.com
-- 📡Blog/主页: [你的博客/主页链接]
+- 🛸Email: pokmgo100@163.com
+- 📡Blog/主页: [https://github.com/dorapan163/dorapan163/edit/main/README.md]
 
