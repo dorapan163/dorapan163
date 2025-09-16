@@ -17,11 +17,11 @@
 
 | 项目 | 简介 | 技术栈 | 相关链接 |
 | ---- | ---- | ------ | ------- |
-| **BabyHeart** | 基于AI的婴儿哭声检测与分析 | Python, 深度学习 | [🔗 查看项目](https://github.com/dorapan163/BabyHeart) |
-| **AppleScrapy** | 苹果官网爬虫，自动化采集设备信息 | Scrapy, Python | [🔗 查看项目](https://github.com/dorapan163/AppleScrapy) |
-| **DroidScrapy** | 安卓相关数据采集爬虫 | Scrapy, Python | [🔗 查看项目](https://github.com/dorapan163/DroidScrapy) |
-| **BS_LLM** | 基于大语言模型的智能应用 | LLM, 深度学习 | [🔗 查看项目](https://github.com/dorapan163/BS_LLM) |
-| **Capybara** | 高效爬虫调度及管理工具 | Python, Docker | [🔗 查看项目](https://github.com/dorapan163/Capybara) |
+| **BabyHeart** | 基于AI的婴儿哭声检测与分析Android应用 | Android+Python, 深度学习 | [🔗 查看项目](https://github.com/dorapan163/BabyHeart) |
+| **AppleScrapy** | 苹果设备对接AI，个人微信Chat自动化回复探索项目 | Scrapy, Python, iOS | [🔗 查看项目](https://github.com/dorapan163/AppleScrapy) |
+| **DroidScrapy** | 安卓高性能屏幕采集（远程控制） | Scrapy, Android, Python | [🔗 查看项目](https://github.com/dorapan163/DroidScrapy) |
+| **BS_LLM** | 基于大语言模型的智能应用 | LLM, LangChat, 深度学习 | [🔗 查看项目](https://github.com/dorapan163/BS_LLM) |
+| **Capybara** | 高效的多平台远程桌面（Android/iOS/Web） | Python, Docker | [🔗 查看项目](https://github.com/dorapan163/Capybara) |
 
 ---
 
