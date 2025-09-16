@@ -7,9 +7,12 @@
 
 ## 👋 Hi, I'm dorapan163!
 
-- 🔭 热衷于软件开发，创意硬件开发，探索很多
-- 🌱 正在学习：深度学习、爬虫架构优化
-- 💬 正在研究柔性致动器（用于仿生机器人的骨骼驱动）并正在申请专利，欢迎交流技术或合作！
+### - 💾 热衷于软件开发，3D打印，创意硬件开发，探索很多有趣的东西！
+### - 🌱 正在学习：人工智能，深度学习、非人形机器人（机器人干嘛一定要长得像人一样两条腿啊！淦👽）
+### - 🧪 正在研究柔性致动器（用于仿生机器人的骨骼驱动的类肌肉）并正在申请专利。。。。
+### - 🧠 正在开发用于小型活体组织的成像设备（不是那种笨重的核磁共振设备）
+### - 🌡️ 正在开发一种用于移动设备的VR/AR的光学设备
+### - 🤝欢迎交流技术或合作！
 
 ---
 
@@ -17,11 +20,11 @@
 
 | 项目 | 简介 | 技术栈 | 相关链接 |
 | ---- | ---- | ------ | ------- |
-| **BabyHeart** | 基于AI的婴儿哭声检测与分析Android应用 | Android+Python, 深度学习 | [🔗 查看项目](https://github.com/dorapan163/BabyHeart) |
-| **AppleScrapy** | 苹果设备对接AI，个人微信Chat自动化回复探索项目 | Scrapy, Python, iOS | [🔗 查看项目](https://github.com/dorapan163/AppleScrapy) |
-| **DroidScrapy** | 安卓高性能屏幕采集（远程控制） | Scrapy, Android, Python | [🔗 查看项目](https://github.com/dorapan163/DroidScrapy) |
-| **BS_LLM** | 基于大语言模型的智能应用 | LLM, LangChat, 深度学习 | [🔗 查看项目](https://github.com/dorapan163/BS_LLM) |
-| **Capybara** | 高效的多平台远程桌面（Android/iOS/Web） | Python, Docker | [🔗 查看项目](https://github.com/dorapan163/Capybara) |
+| **BabyHeart** | 👶基于AI的婴儿哭声检测与分析Android应用 | Android+Python, 深度学习 | [🔗 查看项目](https://github.com/dorapan163/BabyHeart) |
+| **AppleScrapy** | 🍎苹果设备对接AI，个人微信Chat自动化回复探索项目 | Scrapy, Python, iOS | [🔗 查看项目](https://github.com/dorapan163/AppleScrapy) |
+| **DroidScrapy** | 🐍🤖安卓高性能屏幕采集（远程控制） | Scrapy, Android, Python | [🔗 查看项目](https://github.com/dorapan163/DroidScrapy) |
+| **BS_LLM** | 🧠基于大语言模型的智能应用 | LLM, LangChat, 深度学习 | [🔗 查看项目](https://github.com/dorapan163/BS_LLM) |
+| **Capybara** | 🌐高效的多平台远程桌面（Android/iOS/Web） | Python, Docker | [🔗 查看项目](https://github.com/dorapan163/Capybara) |
 
 ---
 
@@ -33,6 +36,8 @@
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![LLM](https://img.shields.io/badge/-LLM-4B0082?logo=OpenAI&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84,FF69B4?logo=android&logoColor=white) 
+![iOS](https://img.shields.io/badge/-iOS-0071E3,9932CC?logo=ios&logoColor=white)
 
 ---
 
