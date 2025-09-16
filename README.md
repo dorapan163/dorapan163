@@ -37,7 +37,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![LLM](https://img.shields.io/badge/-LLM-4B0082?logo=OpenAI&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84,FF69B4?logo=android&logoColor=white) 
-![iOS](https://img.shields.io/badge/-iOS-0071E3,9932CC?logo=ios&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-0071E3,4B0082?logo=ios&logoColor=white)
 
 ---
 
