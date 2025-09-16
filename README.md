@@ -20,7 +20,7 @@
 
 | 项目 | 简介 | 技术栈 | 相关链接 |
 | ---- | ---- | ------ | ------- |
-| **BabyHeart** | 👶基于AI的婴儿哭声检测与分析Android应用 | Android+Python, 深度学习 | [🔗 查看项目](https://github.com/dorapan163/BabyHeart) |
+| **BabyHeart** | 👶基于非多普勒式的无源胎儿心跳监测的Android应用 | Android+Python, 深度学习 | [🔗 查看项目](https://github.com/dorapan163/BabyHeart) |
 | **AppleScrapy** | 🍎苹果设备对接AI，个人微信Chat自动化回复探索项目 | Scrapy, Python, iOS | [🔗 查看项目](https://github.com/dorapan163/AppleScrapy) |
 | **DroidScrapy** | 🐍🤖安卓高性能屏幕采集（远程控制） | Scrapy, Android, Python | [🔗 查看项目](https://github.com/dorapan163/DroidScrapy) |
 | **BS_LLM** | 🧠基于大语言模型的智能应用 | LLM, LangChat, 深度学习 | [🔗 查看项目](https://github.com/dorapan163/BS_LLM) |
