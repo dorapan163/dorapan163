@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0E14&height=160&section=header&text=DORAPAN%20163&fontSize=70&fontAlignY=35&fontColor=00A7FF&desc=INTERSTELLAR%20WORKSPACE&descSize=20&descAlignY=65&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0E14&height=200&section=header&text=👾%20DORAPAN%20163%20👾&fontSize=60&fontAlignY=45&fontColor=00A7FF,FF00FF&desc=---%208-BIT%20INTERSTELLAR%20WORKSPACE%20---&descSize=20&descAlignY=75&descColor=3DDC84&animation=twinkling" width="100%" alt="Pixel Sci-Fi Banner" />
 </p>
 
 <p align="center">
