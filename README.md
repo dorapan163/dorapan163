@@ -3,9 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FF0000&&color=FF0000&color=FF7F00&color=FFFF00multiColor=true&center=true&vCenter=true&width=600&lines=ESTABLISHING+SECURE+LINK...;ACCESSING+JEDI+ARCHIVES...;WELCOME,+COMMANDER+DORAPAN.;BUILDING+THE+FUTURE+OF+ROBOTICS..." alt="Typing SVG" />
+  <img src="https://ctse.dev/res/text?text=ESTABLISHING%20SECURE%20LINK...&font=Press%20Start%202P&size=20&color=gradient&gradient=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8B00FF" alt="Rainbow Pixel Text" />
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=ACCESSING+JEDI+ARCHIVES...;WELCOME,+COMMANDER+DORAPAN.;BUILDING+THE+FUTURE+OF+ROBOTICS..." alt="Sub-terminal" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/github/followers/dorapan163?label=SYSTEM+FOLLOWERS&style=for-the-badge&color=00A7FF&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=dorapan163&style=for-the-badge&color=0071E3&label=STATION+VISITORS" />
