@@ -1,46 +1,83 @@
-# <img src="./images/pixel-space-banner.svg" alt="dorapan163" height="120"/>
-
 <p align="center">
-  <img src="https://img.shields.io/github/followers/dorapan163?label=Followers&style=social" />
-  <img src="https://komarev.com/ghpvc/?username=dorapan163&style=flat-square&color=blue" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0E14&height=160&section=header&text=DORAPAN%20163&fontSize=70&fontAlignY=35&fontColor=00A7FF&desc=INTERSTELLAR%20WORKSPACE&descSize=20&descAlignY=65&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./images/robot.png" alt="robot" width="160" style="image-rendering: pixelated;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00A7FF&center=true&vCenter=true&width=600&lines=ESTABLISHING+SECURE+LINK...;ACCESSING+JEDI+ARCHIVES...;WELCOME,+COMMANDER+DORAPAN.;BUILDING+THE+FUTURE+OF+ROBOTICS..." alt="Typing SVG" />
 </p>
 
-## ✦ 欢迎来到 dorapan163 的星际工作台 ✦
-
-> 黑·灰·靛蓝 · 荧光科幻 · 像素风创意实验
-
-- 💾 热衷：软件开发、3D 打印、创意硬件  
-- 🌱 学习中：人工智能、深度学习、非人形机器人  
-- 🧪 研究：柔性致动器、移动设备用 VR/AR 光学、微型成像设备  
-- 🤝 欢迎技术交流与合作
-
----
-
-### 🚀 精选代表项目
-| 项目 | 简介 | 技术栈 | 链接 |
-| ---- | ---- | ------ | ---- |
-| BabyHeart | 基于无源胎儿心跳检测的 Android 应用 | Android + Python + DL | [查看](https://github.com/dorapan163/BabyHeart) |
-| AppleScrapy | iOS 设备对接 AI / 微信自动回复探索 | Scrapy, Python, iOS | [查看](https://github.com/dorapan163/AppleScrapy) |
-| DroidScrapy | 安卓高性能屏幕采集（远程控制） | Scrapy, Android, Python | [查看](https://github.com/dorapan163/DroidScrapy) |
-| BS_LLM | 基于大语言模型的智能应用 | LLM, LangChat | [查看](https://github.com/dorapan163/BS_LLM) |
-
----
-
-### 🛠 技术栈
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/-iOS-0071E3?logo=ios&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/github/followers/dorapan163?label=SYSTEM+FOLLOWERS&style=for-the-badge&color=00A7FF&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=dorapan163&style=for-the-badge&color=0071E3&label=STATION+VISITORS" />
 </p>
 
 ---
 
-### ✉️ 联系方式
-- Email: pokmgo100@163.com  
-- 主页/README: [个人主页](https://github.com/dorapan163/dorapan163/blob/main/README.md)
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="300" align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJtbmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxPvkOZy98I/giphy.gif" width="180" style="image-rendering: pixelated;"/>
+      </td>
+      <td>
+        <h2> 🛰️ 终端状态：在线 (SYSTEM: ONLINE) </h2>
+        <p><i>"在位元与原子之间，构建科幻的现实。"</i></p>
+        <code><b>CURRENT_LOC:</b> 3D-PRINTING_NEBULA</code><br>
+        <code><b>PRIMARY_OBJ:</b> SOFT_ACTUATORS & AI_RESEARCH</code><br>
+        <code><b>STATUS_LOG:</b> 热衷于软件开发、3D 打印与创意硬件的跨界实验。</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🌌 核心研究领域 (Core Research)
+- 🌱 **神经训练：** 人工智能、深度学习、非人形机器人
+- 🧪 **前沿实验室：** 柔性致动器、移动设备用 VR/AR 光学、微型成像设备
+- 🤝 **通讯协议：** 欢迎一切形式的技术交流与星际合作
+
+---
+
+### 🚀 执行中任务 (Active Missions)
+
+| 任务 ID | 项目代号 | 核心技术栈 | 档案状态 | 访问权限 |
+| :--- | :--- | :--- | :--- | :--- |
+| **01** | `BabyHeart` | `Android` `Python` `DL` | 🟢 核心运行中 | [[进入档案]](https://github.com/dorapan163/BabyHeart) |
+| **02** | `AppleScrapy` | `Scrapy` `Python` `iOS` | 🟡 深度实验中 | [[进入档案]](https://github.com/dorapan163/AppleScrapy) |
+| **03** | `DroidScrapy` | `Android` `Remote` | 🔵 远程传输中 | [[进入档案]](https://github.com/dorapan163/DroidScrapy) |
+| **04** | `BS_LLM` | `LLM` `LangChat` | 🟣 逻辑演进中 | [[进入档案]](https://github.com/dorapan163/BS_LLM) |
+
+---
+
+### 🔋 技术能量矩阵 (Tech Stack)
+
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,android,apple,pytorch,docker,cpp,arduino,raspberrypi,github,linux&perline=10" /></a>
+</p>
+
+---
+
+### 📊 实时监测面板 (System Telemetry)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dorapan163&show_icons=true&theme=radical&hide_border=true&title_color=00A7FF&icon_color=00A7FF&text_color=ffffff" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorapan163&layout=compact&theme=radical&hide_border=true&title_color=00A7FF&text_color=ffffff" />
+</p>
+
+#### ⚡ 能量贡献矩阵 (Energy Contributions)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dorapan163/dorapan163/output/github-contribution-grid-snake.svg" alt="Jedi Snake" />
+</p>
+
+---
+
+### ✉️ 建立通讯 (Signal Reception)
+
+<p align="center">
+  <b>EMAIL:</b> <code>pokmgo100@163.com</code> | <b>MAIN_STATION:</b> <a href="https://github.com/dorapan163/dorapan163/blob/main/README.md">PERSONAL_ARCHIVE</a>
+</p>
+
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZxaXp4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  <br>
+  <i>May the Force be with your code.</i>
+</p>
