@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVnZW13ZTV2dzA5eWJ5eHh5Z3R4eG54eG54eG54eG54eG54eG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/26DMXp9rU8X1W8lJC/giphy.gif" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=MEOW-TERSTELLAR+STATION+ESTABLISHED...;UPDATING+NEURAL+CAT-WORKS...;BUILDING+THE+FUTURE+OF+ROBOTICS..." alt="Typing SVG" />
 </p>
 
