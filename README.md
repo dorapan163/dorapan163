@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=CONNECTING+TO+INTERSTELLAR+STATION...;UPDATING+NEURAL+NETWORKS...;BUILDING+THE+FUTURE+OF+ROBOTICS..." alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVnZW13ZTV2dzA5eWJ5eHh5Z3R4eG54eG54eG54eG54eG54eG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/26DMXp9rU8X1W8lJC/giphy.gif" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=MEOW-TERSTELLAR+STATION+ESTABLISHED...;UPDATING+NEURAL+CAT-WORKS...;BUILDING+THE+FUTURE+OF+ROBOTICS..." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,14 +21,17 @@
   <table border="0">
     <tr>
       <td width="300" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJtbmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxPvkOZy98I/giphy.gif" width="180" style="image-rendering: pixelated;" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndicXFmZzNndHh4eG54eG54eG54eG54eG54eG54eG54eG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/v6aOjy0VeHJv2/giphy.gif" width="180" style="image-rendering: pixelated; border-radius: 50%;" />
+        <br>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNxMmZ6dG55Z3R4eG54eG54eG54eG54eG54eG54eG54eG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/596vMclM0K8O4/giphy.gif" width="120" />
       </td>
       <td>
-        <h2> 🛰️ 欢迎抵达 dorapan163 的星际工作台 </h2>
-        <p><i>"在位元与原子之间，构建科幻的现实。"</i></p>
-        <code><b>STATUS:</b> ONLINE</code><br>
+        <h2> 🛰️ 欢迎抵达 dorapan163 的喵星工作台 </h2>
+        <p><i>"在位元与原子之间，构建科幻的现实，顺便喂下猫。"</i></p>
+        <code><b>STATUS:</b> PURR-FECTLY ONLINE</code><br>
         <code><b>LOCATION:</b> 3D-PRINTING NEBULA</code><br>
-        <code><b>MISSION:</b> SOFT ACTUATORS & AI EXPLORATION</code>
+        <code><b>MISSION:</b> SOFT ACTUATORS & CAT-LIKE AI</code><br>
+        <code><b>ACTIVE_PETS:</b> 🐈 Pixel Cat v1.0</code>
       </td>
     </tr>
   </table>
@@ -41,6 +48,10 @@
 
 ### 🚀 执行中任务 (Active Missions)
 
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnR6ZHFmZ3R4eG54eG54eG54eG54eG54eG54eG54eG54eG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/IdmZ9v9Kj93oI/giphy.gif" width="50" />
+</p>
+
 | 任务编号 | 项目代号 | 核心技术 | 状态 | 档案 |
 | :--- | :--- | :--- | :--- | :--- |
 | **01** | `BabyHeart` | `Android` `DL` | 🟢 运行中 | [进入](https://github.com/dorapan163/BabyHeart) |
@@ -52,9 +63,10 @@
 
 ### 🔋 技术能量矩阵 (Tech Stack)
 
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,android,apple,pytorch,docker,cpp,arduino,raspberrypi&perline=8" /></a>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,android,apple,pytorch,docker,cpp,arduino,raspberrypi&perline=8" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenF4bmZndHh4eG54eG54eG54eG54eG54eG54eG54eG54eG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/6Xo296D8I37t6/giphy.gif" width="50" />
+</div>
 
 ---
 
@@ -76,8 +88,11 @@
 - **加密邮件:** `pokmgo100@163.com`
 - **中继站:** [个人主页](https://github.com/dorapan163/dorapan163/blob/main/README.md)
 
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZxaXp4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
-  <br>
-  <i>May the Force be with your code.</i>
-</p>
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZxaXp4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/JIX9t2j0ZTN9S/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZxaXp4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3oriO0OEd9QIDdllqo/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZxaXp4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/26DMWp9rU8X1W8lJC/giphy.gif" width="80"/>
+  <p><i>May the Fur-ce be with your code.</i></p>
+</div>
