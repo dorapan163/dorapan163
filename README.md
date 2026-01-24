@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0E14&height=200&section=header&text=DORAPAN%20163&fontSize=70&animation=fadeIn&fontAlignY=35&theme=dark" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2cWp6Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6YfpxGvE4Xz5C/giphy.gif" width="100%" alt="Star Wars Pixel Space" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
   <table border="0">
     <tr>
       <td width="300" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJtbmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxPvkOZy98I/giphy.gif" width="180" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJtbmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxPvkOZy98I/giphy.gif" width="180" style="image-rendering: pixelated;" />
       </td>
       <td>
         <h2> 🛰️ 欢迎抵达 dorapan163 的星际工作台 </h2>
@@ -78,4 +78,6 @@
 
 <p align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZxaXp4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  <br>
+  <i>May the Force be with your code.</i>
 </p>
