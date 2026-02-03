@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/images/banner.gif" width="100%" alt="Star Wars Pixel Space" style="border-radius: 10px;" />
+  <img src="https://www.bing.com/images/search?view=detailV2&ccid=lknEMJev&id=A9B68CC09B3094FD9ABA12569C8874EFB21F8121&thid=OIP.lknEMJev8_2LOHAU4Dc8MQHaFT&mediaurl=https%3a%2f%2fp3-pc-sign.douyinpic.com%2ftos-cn-i-0813%2foUkyC8VAhcbfOCkAmgvE3unAejObzAAIAtnISD%7etplv-dy-aweme-images%3aq75.webp%3fbiz_tag%3daweme_images%26from%3d327834062%26lk3s%3d138a59ce%26s%3dPackSourceEnum_SEARCH%26sc%3dimage%26se%3dfalse%26x-expires%3d1741507200%26x-signature%3dsMrZnzEXDWU6iDLWqlX%252BvQr%252BhVE%253D&exph=774&expw=1080&q=%e5%90%ac%e6%b3%89%e7%8c%ab%e8%a1%a8%e6%83%85%e5%8c%85gif&FORM=IRPRST&ck=4F71EF8DF800D86DE4E44EC620EC4990&selectedIndex=0&itb=0&idpp=overlayview&ajaxhist=0&ajaxserp=0" width="100%" alt="Star Wars Pixel Space" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
