@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2cWp6Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6YfpxGvE4Xz5C/giphy.gif" width="100%" alt="Star Wars Pixel Space" style="border-radius: 10px;" />
+  <img src="/assets/images/banner.gif" width="100%" alt="Star Wars Pixel Space" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
