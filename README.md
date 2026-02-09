@@ -24,6 +24,8 @@
         <code><b>MISSION:</b> SOFT ACTUATORS & CAT-LIKE AI</code><br>
         <code><b>ACTIVE_PETS:</b> 🐈 Pixel Cat v1.0</code>
       </td>
+      <td align="center" valign="middle">
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat" width=
     </tr>
   </table>
 </div>
