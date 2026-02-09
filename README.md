@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner1.png" width="100%" alt="Star Wars Pixel Space" style="border-radius: 10px;" />
+  <img src="asserts/banner1.png" width="100%" alt="Star Wars Pixel Space" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
