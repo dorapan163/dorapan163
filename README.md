@@ -86,6 +86,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZxaXp4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/JIX9t2j0ZTN9S/giphy.gif" width="80"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZxaXp4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3oriO0OEd9QIDdllqo/giphy.gif" width="80"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZxaXp4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/26DMWp9rU8X1W8lJC/giphy.gif" width="80"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lvenRiejRsMmw5YWk0bm9rODcxMmU5NjRxNDd1ODJibzQ2c2tjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q2OyUwyJ7ydiM/giphy.gif" width="80"/>
   <p><i>May the Fur-ce be with your code.</i></p>
 </div>
