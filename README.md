@@ -16,11 +16,6 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="300" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndicXFmZzNndHh4eG54eG54eG54eG54eG54eG54eG54eG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/v6aOjy0VeHJv2/giphy.gif" width="180" style="image-rendering: pixelated; border-radius: 50%;" />
-        <br>
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNxMmZ6dG55Z3R4eG54eG54eG54eG54eG54eG54eG54eG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/596vMclM0K8O4/giphy.gif" width="120" />
-      </td>
       <td>
         <h2> 🛰️ 欢迎抵达 dorapan163 的喵星工作台 </h2>
         <p><i>"在位元与原子之间，构建科幻的现实，顺便喂下猫。"</i></p>
