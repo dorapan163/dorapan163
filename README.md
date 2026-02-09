@@ -45,10 +45,10 @@
 
 | 任务编号 | 项目代号 | 核心技术 | 状态 | 档案 |
 | :--- | :--- | :--- | :--- | :--- |
-| **01** | `BabyHeart` | `Android` `DL` | 🟢 运行中 | [进入](https://github.com/dorapan163/BabyHeart) |
-| **02** | `AppleScrapy` | `Python` `iOS` | 🟡 实验中 | [进入](https://github.com/dorapan163/AppleScrapy) |
-| **03** | `DroidScrapy` | `Android` `Remote` | 🔵 优化中 | [进入](https://github.com/dorapan163/DroidScrapy) |
-| **04** | `BS_LLM` | `LLM` `LangChain` | 🟣 演进中 | [进入](https://github.com/dorapan163/BS_LLM) |
+| **胎儿心跳非多普勒监测** | `BabyHeart` | `Android` `DL` | 🟢 运行中 | [进入](https://github.com/dorapan163/BabyHeart) |
+| **苹果手机自动化** | `AppleScrapy` | `Python` `iOS` | 🟡 实验中 | [进入](https://github.com/dorapan163/AppleScrapy) |
+| **Android屏幕捕获** | `DroidScrapy` | `Android` `Remote` | 🔵 优化中 | [进入](https://github.com/dorapan163/DroidScrapy) |
+| **AI智能HR综合体** | `BS_LLM` | `LLM` `LangChain` | 🟣 演进中 | [进入](https://github.com/dorapan163/BS_LLM) |
 
 ---
 
@@ -76,8 +76,8 @@
 
 ### ✉️ 建立通讯 (Signal Reception)
 
-- **加密邮件:** `pokmgo100@163.com`
-- **中继站:** [个人主页](https://github.com/dorapan163/dorapan163/blob/main/README.md)
+- **邮件:** `pokmgo100@163.com`
+- **曼波信号:** [个人主页](https://github.com/dorapan163/dorapan163/blob/main/README.md)
 
 <br>
 
