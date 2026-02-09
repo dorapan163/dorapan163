@@ -14,7 +14,7 @@
 ---
 
 <div align="left" background="red">
-  <table border="0">
+  <table border="1">
     <tr>
       <td>
         <h2> 🛰️ 欢迎抵达 dorapan163 的喵星工作台 </h2>
