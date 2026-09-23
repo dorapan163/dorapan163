@@ -15,44 +15,45 @@
 
 ---
 
-<!-- ========== 左右分栏布局：左侧头像简介｜右侧主体内容 ========== -->
-<table>
-<tr>
-<td width="30%" valign="top">
-<div align="center">
-<!-- 圆形头像，替换为你的头像图片地址 -->
-<img src="asserts/avatar.png" width="160" style="border-radius:50%;border:3px solid #00d4ff;">
-<h2>dorapan163</h2>
-<p><i>Robotics & Edge AI Developer</i></p>
+<!-- ====================== 左侧侧边栏（float左悬浮，放大头像+简介） ====================== -->
+<div style="float:left; width:320px; padding-right:24px; padding-top:10px;">
+  <div align="center">
+    <!-- 圆形头像，白色粗边框 -->
+    <img src="asserts/avatar.png" width="240" style="border-radius:50%; border:5px solid #ffffff;">
+    <h2 style="color:#7AF7FF; margin:12px 0;">dorapan163</h2>
+    <p style="font-size:16px;"><i>Robotics & Edge AI Developer</i></p>
+  </div>
+
+  <br>
+  <p style="font-size:15px; line-height:1.6;">
+  <em>"Between bits and atoms, we design future interfaces, autonomous systems, and gently robotic dreams."</em>
+  </p>
+  <br>
+
+  <h4 style="color:#94a3b8;">CORE CAPABILITIES</h4>
+  <div>
+    <img src="https://img.shields.io/badge/AI%20%26%20ML-Research-00C9A7?style=flat-square" />
+    <img src="https://img.shields.io/badge/Embedded-Systems-FFB703?style=flat-square" />
+    <img src="https://img.shields.io/badge/Creative-Hardware-F72585?style=flat-square" />
+    <img src="https://img.shields.io/badge/Interactive-Experiments-7209B7?style=flat-square" />
+  </div>
+  <br>
+
+  <ul style="padding-left:16px; line-height:1.7; font-size:15px;">
+    <li>🧠 AI-assisted interfaces and adaptive robotics</li>
+    <li>🔧 Android automation, device interaction, and intelligent tooling</li>
+    <li>🖨️ 3D printing, soft robotics, and creative prototyping</li>
+    <li>🤝 Open technical exchange and build-with-purpose iteration</li>
+  </ul>
+
+  <br>
+  <div align="center">
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat" width="140" />
+  </div>
 </div>
 
-<br>
-
-> "Between bits and atoms, we design future interfaces, autonomous systems, and gently robotic dreams."
-
-<br>
-<sub>CORE CAPABILITIES</sub><br><br>
-<div>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Research-00C9A7?style=flat-square" />
-<img src="https://img.shields.io/badge/Embedded-Systems-FFB703?style=flat-square" />
-<img src="https://img.shields.io/badge/Creative-Hardware-F72585?style=flat-square" />
-<img src="https://img.shields.io/badge/Interactive-Experiments-7209B7?style=flat-square" />
-</div>
-<br>
-
-- 🧠 AI-assisted interfaces and adaptive robotics
-- 🔧 Android automation, device interaction, and intelligent tooling
-- 🖨️ 3D printing, soft robotics, and creative prototyping
-- 🤝 Open technical exchange and build-with-purpose iteration
-
-<br>
-<div align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat" width="120" />
-</div>
-
-</td>
-
-<td width="70%" valign="top">
+<!-- ====================== 右侧主内容区域 ====================== -->
+<div style="overflow:hidden;">
 
 ### 🚀 Active Mission Deck
 <p><sub>LIVE PROJECTS · 当前执行中的实验与产品任务</sub></p>
@@ -141,6 +142,7 @@
 
 <div align="center"><p><i>May the Fur-ce be with your code.</i></p></div>
 
-</td>
-</tr>
-</table>
+</div>
+
+<!-- 清除浮动，防止下面内容错乱 -->
+<br style="clear:both;">
