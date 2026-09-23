@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=MEOW-TERSTELLAR+STATION+ESTABLISHED...;UPDATING+NEURAL+CAT-WORKS...;BUILDING+THE+FUTURE+OF+ROBOTICS..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=MEOW-TERSTELLAR+STATION+ESTABLISHED...;UPDATING+NEURAL+NETWORK...;READY+FOR+MISSION+CONTROL" alt="typing banner" />
 </p>
 
 <p align="center">
@@ -25,7 +25,8 @@
         <code><b>ACTIVE_PETS:</b> 🐈 Pixel Cat v1.0</code>
       </td>
       <td align="center" valign="middle">
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat" width=
+        <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat" width="240" />
+      </td>
     </tr>
   </table>
 </div>
@@ -45,12 +46,23 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnR6ZHFmZ3R4eG54eG54eG54eG54eG54eG54eG54eG54eG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/IdmZ9v9Kj93oI/giphy.gif" width="50" />
 </p>
 
-| 任务编号 | 项目代号 | 核心技术 | 状态 | 档案 |
-| :--- | :--- | :--- | :--- | :--- |
-| **胎儿心跳非多普勒监测** | `BabyHeart` | `Android` `DL` | 🟢 运行中 | [进入](https://github.com/dorapan163/BabyHeart) |
-| **苹果手机自动化** | `AppleScrapy` | `Python` `iOS` | 🟡 实验中 | [进入](https://github.com/dorapan163/AppleScrapy) |
-| **Android屏幕捕获** | `DroidScrapy` | `Android` `Remote` | 🔵 优化中 | [进入](https://github.com/dorapan163/DroidScrapy) |
-| **AI智能HR综合体** | `BS_LLM` | `LLM` `LangChain` | 🟣 演进中 | [进入](https://github.com/dorapan163/BS_LLM) |
+<div align="left">
+  <a href="https://github.com/dorapan163/BabyHeart">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=BabyHeart&theme=radical&show_owner=true" alt="BabyHeart" />
+  </a>
+  <a href="https://github.com/dorapan163/AppleScrapy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=AppleScrapy&theme=radical&show_owner=true" alt="AppleScrapy" />
+  </a>
+</div>
+
+<div align="left">
+  <a href="https://github.com/dorapan163/DroidScrapy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=DroidScrapy&theme=radical&show_owner=true" alt="DroidScrapy" />
+  </a>
+  <a href="https://github.com/dorapan163/BS_LLM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=BS_LLM&theme=radical&show_owner=true" alt="BS_LLM" />
+  </a>
+</div>
 
 ---
 
