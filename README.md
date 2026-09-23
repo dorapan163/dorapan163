@@ -7,53 +7,54 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-ONLINE-00d4ff?style=for-the-badge&logo=rocket&logoColor=white" alt="status" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Hardware-8b5cf6?style=for-the-badge" alt="focus" />
-  <img src="https://img.shields.io/github/followers/dorapan163?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
-  <img src="https://komarev.com/ghpvc/?username=dorapan163&style=for-the-badge&color=0071E3&label=Visitors" alt="visitors" />
+  <img src="https://img.shields.io/badge/Status-ONLINE-00d4ff?style=for-the-badge&logo=rocket&logoColor=white" alt="status badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Hardware-8b5cf6?style=for-the-badge" alt="focus badge" />
+  <img src="https://img.shields.io/github/followers/dorapan163?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers badge" />
+  <img src="https://komarev.com/ghpvc/?username=dorapan163&style=for-the-badge&color=0071E3&label=Visitors" alt="visitors badge" />
 </p>
 
 ---
 
 <div align="center">
-  <h2>🛰️ Welcome to dorapan163's Mission Control</h2>
+  <h2>🛰️ Mission Control / dorapan163</h2>
   <p><i>"Between bits and atoms, we design future interfaces, autonomous systems, and gently robotic dreams."</i></p>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat" width="180" />
 </div>
 
-<!-- Project tiles: compact 2x2 product-style grid -->
+<p align="center"><sub>PROJECT CHANNELS</sub></p>
+
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <a href="https://github.com/dorapan163/BabyHeart">
-        <img src="https://img.shields.io/badge/❤_BabyHeart-f43f5e?style=for-the-badge&logo=android&logoColor=white" alt="BabyHeart" />
-      </a><br />
-      <sub>胎儿心跳监测 · Android / DL</sub>
+        <img src="https://img.shields.io/badge/BabyHeart-❤%20Fetal%20Monitor-f43f5e?style=for-the-badge&logo=android&logoColor=white" alt="BabyHeart" />
+      </a><br>
+      <sub>Android / deep learning</sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <a href="https://github.com/dorapan163/AppleScrapy">
-        <img src="https://img.shields.io/badge/🍎_AppleScrapy-64748b?style=for-the-badge&logo=apple&logoColor=white" alt="AppleScrapy" />
-      </a><br />
-      <sub>苹果自动化 · Python / iOS</sub>
+        <img src="https://img.shields.io/badge/AppleScrapy-🍎%20Automation-64748b?style=for-the-badge&logo=apple&logoColor=white" alt="AppleScrapy" />
+      </a><br>
+      <sub>Python / iOS automation</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <a href="https://github.com/dorapan163/DroidScrapy">
-        <img src="https://img.shields.io/badge/◉_DroidScrapy-22c55e?style=for-the-badge&logo=android&logoColor=white" alt="DroidScrapy" />
-      </a><br />
-      <sub>Android 屏幕捕获 · Remote</sub>
+        <img src="https://img.shields.io/badge/DroidScrapy-◉%20Screen%20Capture-22c55e?style=for-the-badge&logo=android&logoColor=white" alt="DroidScrapy" />
+      </a><br>
+      <sub>Android / remote interaction</sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <a href="https://github.com/dorapan163/BS_LLM">
-        <img src="https://img.shields.io/badge/✦_BS__LLM-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" alt="BS_LLM" />
-      </a><br />
-      <sub>AI 智能应用 · LLM / LangChain</sub>
+        <img src="https://img.shields.io/badge/BS_LLM-✦%20AI%20Platform-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" alt="BS_LLM" />
+      </a><br>
+      <sub>LLM / LangChain / web app</sub>
     </td>
   </tr>
 </table>
 
-<p align="center"><sub>PROJECT CHANNELS · 点击磁贴进入对应项目</sub></p>
+<p align="center"><sub>Click a tile to enter the project</sub></p>
 
 ---
 
@@ -66,23 +67,31 @@
   <img src="https://img.shields.io/badge/Interactive-Experiments-7209B7?style=flat-square" />
 </div>
 
-- 🧠 **Research direction:** AI-assisted interfaces, multimodal intelligence, adaptive robotics
-- 🔧 **Engineering focus:** Android automation, device interaction, data pipelines, intelligent tooling
-- 🖨️ **Experimental stack:** 3D printing, soft robotics, human-machine interaction, creative prototyping
-- 🤝 **Collaboration model:** open technical exchange, research iteration, build-with-purpose system design
+- 🧠 Research direction: AI-assisted interfaces, multimodal intelligence, adaptive robotics
+- 🔧 Engineering focus: Android automation, device interaction, data pipelines, intelligent tooling
+- 🖨️ Experimental stack: 3D printing, soft robotics, human-machine interaction, creative prototyping
+- 🤝 Collaboration model: open technical exchange, research iteration, and build-with-purpose system design
 
 ---
 
 ### 🚀 Active Mission Deck
 
 <div align="center">
-  <a href="https://github.com/dorapan163/BabyHeart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=BabyHeart&theme=radical&show_owner=true" alt="BabyHeart" /></a>
-  <a href="https://github.com/dorapan163/AppleScrapy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=AppleScrapy&theme=radical&show_owner=true" alt="AppleScrapy" /></a>
+  <a href="https://github.com/dorapan163/BabyHeart">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=BabyHeart&theme=radical&show_owner=true" alt="BabyHeart repository card" />
+  </a>
+  <a href="https://github.com/dorapan163/AppleScrapy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=AppleScrapy&theme=radical&show_owner=true" alt="AppleScrapy repository card" />
+  </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/dorapan163/DroidScrapy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=DroidScrapy&theme=radical&show_owner=true" alt="DroidScrapy" /></a>
-  <a href="https://github.com/dorapan163/BS_LLM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=BS_LLM&theme=radical&show_owner=true" alt="BS_LLM" /></a>
+  <a href="https://github.com/dorapan163/DroidScrapy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=DroidScrapy&theme=radical&show_owner=true" alt="DroidScrapy repository card" />
+  </a>
+  <a href="https://github.com/dorapan163/BS_LLM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=BS_LLM&theme=radical&show_owner=true" alt="BS_LLM repository card" />
+  </a>
 </div>
 
 ---
@@ -98,19 +107,21 @@
 ### 📊 System Telemetry
 
 <p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=dorapan163&show_icons=true&theme=radical&hide_border=true" />
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorapan163&layout=compact&theme=radical&hide_border=true" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=dorapan163&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorapan163&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/dorapan163/dorapan163/output/github-contribution-grid-snake.svg" alt="snake contribution graph" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dorapan163/dorapan163/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
 
 ---
 
-### 🛰️ Contact / Signal Relay
+### 🛰️ Signal Relay
 
 - **Email:** `pokmgo100@163.com`
 - **Portfolio:** [dorapan163](https://github.com/dorapan163)
-- **Mission Log:** [personal homepage README](https://github.com/dorapan163/dorapan163/blob/main/README.md)
+- **Mission log:** [personal homepage README](https://github.com/dorapan163/dorapan163/blob/main/README.md)
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZxaXp4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/JIX9t2j0ZTN9S/giphy.gif" width="80" />
