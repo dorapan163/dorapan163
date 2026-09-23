@@ -3,134 +3,89 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=7AF7FF&center=true&vCenter=true&width=780&lines=MEOW-TERSTELLAR+LAB+ONLINE;SYSTEM+BOOT+SUCCESSFUL;EXPERIMENTAL+ROBOTICS+%26+EDGE+AI;BUILD+WITH+PURPOSE" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=MEOW-TERSTELLAR+STATION+ESTABLISHED...;UPDATING+NEURAL+CAT-WORKS...;BUILDING+THE+FUTURE+OF+ROBOTICS..." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-ONLINE-00d4ff?style=for-the-badge&logo=rocket&logoColor=white" alt="status badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Hardware-8b5cf6?style=for-the-badge" alt="focus badge" />
-  <img src="https://img.shields.io/github/followers/dorapan163?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers badge" />
-  <img src="https://komarev.com/ghpvc/?username=dorapan163&style=for-the-badge&color=0071E3&label=Visitors" alt="visitors badge" />
+  <img src="https://img.shields.io/github/followers/dorapan163?label=SYSTEM+FOLLOWERS&style=for-the-badge&color=blue&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=dorapan163&style=for-the-badge&color=0071E3&label=STATION+VISITORS" />
 </p>
 
 ---
 
-<!-- 顶部横向布局：左侧放大圆形头像（白色粗边框）｜右侧个人简介，无表格 -->
-<div style="display:flex; align-items:center; gap:28px; flex-wrap:wrap; justify-content:center;">
-  <!-- 左侧头像：放大 + 白色粗圆环 -->
-  <div>
-    <img src="asserts/avatar.png" width="220" style="border-radius:50%; border:5px solid #ffffff;">
-  </div>
-  <!-- 右侧个人简介文本 -->
-  <div style="max-width:580px;">
-    <h2 style="margin:0; color:#f8fafc;">dorapan163</h2>
-    <p style="margin:4px 0 12px; font-style:italic; color:#94a3b8;">Robotics & Edge AI Developer</p>
-    <p style="color:#cbd5e1;">"Between bits and atoms, we design future interfaces, autonomous systems, and gently robotic dreams."</p>
-
-    <sub>CORE CAPABILITIES</sub><br><br>
-    <div>
-      <img src="https://img.shields.io/badge/AI%20%26%20ML-Research-00C9A7?style=flat-square" />
-      <img src="https://img.shields.io/badge/Embedded-Systems-FFB703?style=flat-square" />
-      <img src="https://img.shields.io/badge/Creative-Hardware-F72585?style=flat-square" />
-      <img src="https://img.shields.io/badge/Interactive-Experiments-7209B7?style=flat-square" />
-    </div>
-    <br>
-    <div style="color:#cbd5e1; line-height:1.7;">
-      • 🧠 AI-assisted interfaces and adaptive robotics<br>
-      • 🔧 Android automation, device interaction, and intelligent tooling<br>
-      • 🖨️ 3D printing, soft robotics, and creative prototyping<br>
-      • 🤝 Open technical exchange and build-with-purpose iteration
-    </div>
-  </div>
+<div align="left" background="red">
+  <table border="1">
+    <tr>
+      <td>
+        <h2> 🛰️ 欢迎抵达 dorapan163 的喵星工作台 </h2>
+        <p><i>"在位元与原子之间，构建科幻的现实，顺便喂下猫。"</i></p>
+        <code><b>STATUS:</b> PURR-FECTLY ONLINE</code><br>
+        <code><b>LOCATION:</b> 3D-PRINTING NEBULA</code><br>
+        <code><b>MISSION:</b> SOFT ACTUATORS & CAT-LIKE AI</code><br>
+        <code><b>ACTIVE_PETS:</b> 🐈 Pixel Cat v1.0</code>
+      </td>
+      <td align="center" valign="middle">
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat" width=
+    </tr>
+  </table>
 </div>
+
+### 🛠️ 核心子系统 (Core Subsystems)
+
+- 💾 **重点关注：** 软件开发 · 3D 打印 · 创意硬件
+- 🌱 **神经训练：** 人工智能 · 深度学习 · 非人形机器人
+- 🧪 **前沿实验室：** 柔性致动器 · VR/AR 光学 · 微型成像
+- 🤝 **通讯协议：** 欢迎技术交流与星际合作
+
+---
+
+### 🚀 执行中任务 (Active Missions)
+
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnR6ZHFmZ3R4eG54eG54eG54eG54eG54eG54eG54eG54eG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/IdmZ9v9Kj93oI/giphy.gif" width="50" />
+</p>
+
+| 任务编号 | 项目代号 | 核心技术 | 状态 | 档案 |
+| :--- | :--- | :--- | :--- | :--- |
+| **胎儿心跳非多普勒监测** | `BabyHeart` | `Android` `DL` | 🟢 运行中 | [进入](https://github.com/dorapan163/BabyHeart) |
+| **苹果手机自动化** | `AppleScrapy` | `Python` `iOS` | 🟡 实验中 | [进入](https://github.com/dorapan163/AppleScrapy) |
+| **Android屏幕捕获** | `DroidScrapy` | `Android` `Remote` | 🔵 优化中 | [进入](https://github.com/dorapan163/DroidScrapy) |
+| **AI智能HR综合体** | `BS_LLM` | `LLM` `LangChain` | 🟣 演进中 | [进入](https://github.com/dorapan163/BS_LLM) |
+
+---
+
+### 🔋 技术能量矩阵 (Tech Stack)
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,android,apple,pytorch,docker,cpp,arduino,raspberrypi&perline=8" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenF4bmZndHh4eG54eG54eG54eG54eG54eG54eG54eG54eG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/6Xo296D8I37t6/giphy.gif" width="50" />
+</div>
+
+---
+
+### 📊 运行监测数据 (System Stats)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dorapan163&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorapan163&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dorapan163/dorapan163/output/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
+
+---
+
+### ✉️ 建立通讯 (Signal Reception)
+
+- **邮件:** `pokmgo100@163.com`
+- **曼波信号:** [个人主页](https://github.com/dorapan163/dorapan163/blob/main/README.md)
 
 <br>
 
----
-
-### 🚀 Active Mission Deck
-<p align="center"><sub>LIVE PROJECTS · 当前执行中的实验与产品任务</sub></p>
-
-<div style="display:flex; flex-direction:column; gap:14px; margin: 18px 0;">
-
-<!-- BabyHeart 青蓝卡片 -->
-<a href="https://github.com/dorapan163/BabyHeart" style="display:block; width:100%; text-decoration:none; color:#e5e7eb; background:linear-gradient(135deg,#0f3443,#34e89e); border:1px solid rgba(148,163,184,0.28); border-radius:18px; padding:18px 20px; box-shadow:0 8px 22px rgba(15,23,42,0.38); transition:transform .2s ease, border-color .2s ease;">
-  <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
-      <span style="display:inline-block; padding:5px 10px; font-size:11px; font-weight:700; letter-spacing:0.08em; color:#fef3c7; background:rgba(34,197,94,0.15); border:1px solid rgba(34,197,94,0.35); border-radius:999px;">🟢 RUNNING</span>
-      <strong style="font-size:18px; color:#f8fafc;">BabyHeart</strong>
-    </div>
-    <span style="font-size:12px; color:#e0f2fe; letter-spacing:0.08em;">Android · Deep Learning</span>
-  </div>
-  <div style="margin-top:8px; color:#f0fdf4; font-size:14px; line-height:1.6;">胎儿心跳非多普勒监测 · 生理信号智能分析实验</div>
-</a>
-
-<!-- AppleScrapy 琥珀暖色调卡片 -->
-<a href="https://github.com/dorapan163/AppleScrapy" style="display:block; width:100%; text-decoration:none; color:#e5e7eb; background:linear-gradient(135deg,#433417,#f7971e); border:1px solid rgba(148,163,184,0.28); border-radius:18px; padding:18px 20px; box-shadow:0 8px 22px rgba(15,23,42,0.38); transition:transform .2s ease, border-color .2s ease;">
-  <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
-      <span style="display:inline-block; padding:5px 10px; font-size:11px; font-weight:700; letter-spacing:0.08em; color:#fef3c7; background:rgba(251,191,36,0.15); border:1px solid rgba(251,191,36,0.35); border-radius:999px;">🟡 EXPERIMENT</span>
-      <strong style="font-size:18px; color:#f8fafc;">AppleScrapy</strong>
-    </div>
-    <span style="font-size:12px; color:#fed7aa; letter-spacing:0.08em;">Python · iOS</span>
-  </div>
-  <div style="margin-top:8px; color:#fffbeb; font-size:14px; line-height:1.6;">苹果手机自动化 · 设备控制与自动化流程探索</div>
-</a>
-
-<!-- DroidScrapy 蓝色科技卡片 -->
-<a href="https://github.com/dorapan163/DroidScrapy" style="display:block; width:100%; text-decoration:none; color:#e5e7eb; background:linear-gradient(135deg,#102b49,#0ea5e9); border:1px solid rgba(148,163,184,0.28); border-radius:18px; padding:18px 20px; box-shadow:0 8px 22px rgba(15,23,42,0.38); transition:transform .2s ease, border-color .2s ease;">
-  <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
-      <span style="display:inline-block; padding:5px 10px; font-size:11px; font-weight:700; letter-spacing:0.08em; color:#dbeafe; background:rgba(59,130,246,0.12); border:1px solid rgba(59,130,246,0.35); border-radius:999px;">🔵 OPTIMIZING</span>
-      <strong style="font-size:18px; color:#f8fafc;">DroidScrapy</strong>
-    </div>
-    <span style="font-size:12px; color:#bfdbfe; letter-spacing:0.08em;">Android · Automation</span>
-  </div>
-  <div style="margin-top:8px; color:#eff6ff; font-size:14px; line-height:1.6;">安卓端自动化与脚本采集 · 屏幕交互研究</div>
-</a>
-
-<!-- BS_LLM 紫调卡片 -->
-<a href="https://github.com/dorapan163/BS_LLM" style="display:block; width:100%; text-decoration:none; color:#e5e7eb; background:linear-gradient(135deg,#2b1055,#7597de); border:1px solid rgba(148,163,184,0.28); border-radius:18px; padding:18px 20px; box-shadow:0 8px 22px rgba(15,23,42,0.38); transition:transform .2s ease, border-color .2s ease;">
-  <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
-      <span style="display:inline-block; padding:5px 10px; font-size:11px; font-weight:700; letter-spacing:0.08em; color:#f5d0fe; background:rgba(168,85,247,0.12); border:1px solid rgba(168,85,247,0.35); border-radius:999px;">✦ PLATFORM</span>
-      <strong style="font-size:18px; color:#f8fafc;">BS_LLM</strong>
-    </div>
-    <span style="font-size:12px; color:#ddd6fe; letter-spacing:0.08em;">Python · AI</span>
-  </div>
-  <div style="margin-top:8px; color:#faf5ff; font-size:14px; line-height:1.6;">大模型对接移动设备的 Web 应用与 AI 平台实验</div>
-</a>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZxaXp4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/JIX9t2j0ZTN9S/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZxaXp4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3oriO0OEd9QIDdllqo/giphy.gif" width="80"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lvenRiejRsMmw5YWk0bm9rODcxMmU5NjRxNDd1ODJibzQ2c2tjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q2OyUwyJ7ydiM/giphy.gif" width="80"/>
+  <p><i>May the Fur-ce be with your code.</i></p>
 </div>
-<p align="center"><sub>GitHub-inspired gradient cards · 点击卡片进入对应仓库</sub></p>
-
----
-
-### 🧪 Lab Stack
-<div>
-<img src="https://skillicons.dev/icons?i=python,android,apple,pytorch,docker,cpp,arduino,raspberrypi&perline=8" alt="technology stack" />
-</div>
-
----
-
-### 📊 System Telemetry
-<p><sub>LIVE REPOSITORY SIGNALS</sub></p>
-<p align="center">
-<img src="https://img.shields.io/github/stars/dorapan163?style=for-the-badge&logo=github&label=Stars&color=f59e0b" alt="GitHub stars" />
-<img src="https://img.shields.io/github/followers/dorapan163?style=for-the-badge&logo=github&label=Followers&color=2563eb" alt="GitHub followers" />
-<img src="https://img.shields.io/github/repos/dorapan163?style=for-the-badge&logo=github&label=Public%20Repos&color=8b5cf6" alt="Public repositories" />
-<img src="https://img.shields.io/github/commit-activity/y/dorapan163/dorapan163?style=for-the-badge&logo=github&label=Commits&color=00a884" alt="Yearly commit activity" />
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/dorapan163/dorapan163/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</p>
-
----
-
-### 🛰️ Signal Relay
-- **Email:** `pokmgo100@163.com`
-- **Portfolio:** [dorapan163](https://github.com/dorapan163)
-- **Mission log:** [personal homepage README](https://github.com/dorapan163/dorapan163/blob/main/README.md)
-
-<div align="center"><p><i>May the Fur-ce be with your code.</i></p></div>
