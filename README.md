@@ -26,29 +26,21 @@
 <table align="center">
   <tr>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/dorapan163/BabyHeart">
-        <img src="https://img.shields.io/badge/BabyHeart-❤%20Fetal%20Monitor-f43f5e?style=for-the-badge&logo=android&logoColor=white" alt="BabyHeart" />
-      </a><br>
+      <a href="https://github.com/dorapan163/BabyHeart"><img src="https://img.shields.io/badge/BabyHeart-❤%20Fetal%20Monitor-f43f5e?style=for-the-badge&logo=android&logoColor=white" alt="BabyHeart" /></a><br>
       <sub>Android / deep learning</sub>
     </td>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/dorapan163/AppleScrapy">
-        <img src="https://img.shields.io/badge/AppleScrapy-🍎%20Automation-64748b?style=for-the-badge&logo=apple&logoColor=white" alt="AppleScrapy" />
-      </a><br>
+      <a href="https://github.com/dorapan163/AppleScrapy"><img src="https://img.shields.io/badge/AppleScrapy-🍎%20Automation-64748b?style=for-the-badge&logo=apple&logoColor=white" alt="AppleScrapy" /></a><br>
       <sub>Python / iOS automation</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/dorapan163/DroidScrapy">
-        <img src="https://img.shields.io/badge/DroidScrapy-◉%20Screen%20Capture-22c55e?style=for-the-badge&logo=android&logoColor=white" alt="DroidScrapy" />
-      </a><br>
+      <a href="https://github.com/dorapan163/DroidScrapy"><img src="https://img.shields.io/badge/DroidScrapy-◉%20Screen%20Capture-22c55e?style=for-the-badge&logo=android&logoColor=white" alt="DroidScrapy" /></a><br>
       <sub>Android / remote interaction</sub>
     </td>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/dorapan163/BS_LLM">
-        <img src="https://img.shields.io/badge/BS_LLM-✦%20AI%20Platform-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" alt="BS_LLM" />
-      </a><br>
+      <a href="https://github.com/dorapan163/BS_LLM"><img src="https://img.shields.io/badge/BS_LLM-✦%20AI%20Platform-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" alt="BS_LLM" /></a><br>
       <sub>LLM / LangChain / web app</sub>
     </td>
   </tr>
@@ -76,23 +68,36 @@
 
 ### 🚀 Active Mission Deck
 
-<div align="center">
-  <a href="https://github.com/dorapan163/BabyHeart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=BabyHeart&theme=radical&show_owner=true" alt="BabyHeart repository card" />
-  </a>
-  <a href="https://github.com/dorapan163/AppleScrapy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=AppleScrapy&theme=radical&show_owner=true" alt="AppleScrapy repository card" />
-  </a>
-</div>
+<p align="center"><sub>LIVE PROJECTS · 当前执行中的实验与产品任务</sub></p>
 
-<div align="center">
-  <a href="https://github.com/dorapan163/DroidScrapy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=DroidScrapy&theme=radical&show_owner=true" alt="DroidScrapy repository card" />
-  </a>
-  <a href="https://github.com/dorapan163/BS_LLM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=BS_LLM&theme=radical&show_owner=true" alt="BS_LLM repository card" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/dorapan163/BabyHeart"><img src="https://img.shields.io/badge/🟢%20RUNNING-BabyHeart-f43f5e?style=for-the-badge" alt="BabyHeart running" /></a><br>
+      <strong>胎儿心跳非多普勒监测</strong><br>
+      <sub>Android · Deep Learning<br>生理信号智能分析实验</sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/dorapan163/AppleScrapy"><img src="https://img.shields.io/badge/🟡%20EXPERIMENT-AppleScrapy-64748b?style=for-the-badge" alt="AppleScrapy experiment" /></a><br>
+      <strong>苹果手机自动化</strong><br>
+      <sub>Python · iOS<br>设备控制与自动化流程探索</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/dorapan163/DroidScrapy"><img src="https://img.shields.io/badge/🔵%20OPTIMIZING-DroidScrapy-22c55e?style=for-the-badge" alt="DroidScrapy optimizing" /></a><br>
+      <strong>Android 屏幕捕获</strong><br>
+      <sub>Android · Remote Interaction<br>远程屏幕采集与设备交互系统</sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/dorapan163/BS_LLM"><img src="https://img.shields.io/badge/🟣%20EVOLVING-BS__LLM-8b5cf6?style=for-the-badge" alt="BS LLM evolving" /></a><br>
+      <strong>AI 智能 HR 综合体</strong><br>
+      <sub>LLM · LangChain · Web App<br>大模型驱动的移动设备应用平台</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>每张磁贴均可点击进入对应 GitHub 项目</sub></p>
 
 ---
 
@@ -111,9 +116,7 @@
   <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorapan163&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dorapan163/dorapan163/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/dorapan163/dorapan163/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" /></p>
 
 ---
 
