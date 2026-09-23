@@ -15,48 +15,41 @@
 
 ---
 
-<!-- ====================== 左侧侧边栏（float左悬浮，放大头像+简介） ====================== -->
-<div style="float:left; width:320px; padding-right:24px; padding-top:10px;">
-  <div align="center">
-    <!-- 圆形头像，白色粗边框 -->
-    <img src="asserts/avatar.png" width="240" style="border-radius:50%; border:5px solid #ffffff;">
-    <h2 style="color:#7AF7FF; margin:12px 0;">dorapan163</h2>
-    <p style="font-size:16px;"><i>Robotics & Edge AI Developer</i></p>
-  </div>
-
-  <br>
-  <p style="font-size:15px; line-height:1.6;">
-  <em>"Between bits and atoms, we design future interfaces, autonomous systems, and gently robotic dreams."</em>
-  </p>
-  <br>
-
-  <h4 style="color:#94a3b8;">CORE CAPABILITIES</h4>
+<!-- 顶部横向布局：左侧放大圆形头像（白色粗边框）｜右侧个人简介，无表格 -->
+<div style="display:flex; align-items:center; gap:28px; flex-wrap:wrap; justify-content:center;">
+  <!-- 左侧头像：放大 + 白色粗圆环 -->
   <div>
-    <img src="https://img.shields.io/badge/AI%20%26%20ML-Research-00C9A7?style=flat-square" />
-    <img src="https://img.shields.io/badge/Embedded-Systems-FFB703?style=flat-square" />
-    <img src="https://img.shields.io/badge/Creative-Hardware-F72585?style=flat-square" />
-    <img src="https://img.shields.io/badge/Interactive-Experiments-7209B7?style=flat-square" />
+    <img src="asserts/avatar.png" width="220" style="border-radius:50%; border:5px solid #ffffff;">
   </div>
-  <br>
+  <!-- 右侧个人简介文本 -->
+  <div style="max-width:580px;">
+    <h2 style="margin:0; color:#f8fafc;">dorapan163</h2>
+    <p style="margin:4px 0 12px; font-style:italic; color:#94a3b8;">Robotics & Edge AI Developer</p>
+    <p style="color:#cbd5e1;">"Between bits and atoms, we design future interfaces, autonomous systems, and gently robotic dreams."</p>
 
-  <ul style="padding-left:16px; line-height:1.7; font-size:15px;">
-    <li>🧠 AI-assisted interfaces and adaptive robotics</li>
-    <li>🔧 Android automation, device interaction, and intelligent tooling</li>
-    <li>🖨️ 3D printing, soft robotics, and creative prototyping</li>
-    <li>🤝 Open technical exchange and build-with-purpose iteration</li>
-  </ul>
-
-  <br>
-  <div align="center">
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat" width="140" />
+    <sub>CORE CAPABILITIES</sub><br><br>
+    <div>
+      <img src="https://img.shields.io/badge/AI%20%26%20ML-Research-00C9A7?style=flat-square" />
+      <img src="https://img.shields.io/badge/Embedded-Systems-FFB703?style=flat-square" />
+      <img src="https://img.shields.io/badge/Creative-Hardware-F72585?style=flat-square" />
+      <img src="https://img.shields.io/badge/Interactive-Experiments-7209B7?style=flat-square" />
+    </div>
+    <br>
+    <div style="color:#cbd5e1; line-height:1.7;">
+      • 🧠 AI-assisted interfaces and adaptive robotics<br>
+      • 🔧 Android automation, device interaction, and intelligent tooling<br>
+      • 🖨️ 3D printing, soft robotics, and creative prototyping<br>
+      • 🤝 Open technical exchange and build-with-purpose iteration
+    </div>
   </div>
 </div>
 
-<!-- ====================== 右侧主内容区域 ====================== -->
-<div style="overflow:hidden;">
+<br>
+
+---
 
 ### 🚀 Active Mission Deck
-<p><sub>LIVE PROJECTS · 当前执行中的实验与产品任务</sub></p>
+<p align="center"><sub>LIVE PROJECTS · 当前执行中的实验与产品任务</sub></p>
 
 <div style="display:flex; flex-direction:column; gap:14px; margin: 18px 0;">
 
@@ -109,7 +102,7 @@
 </a>
 
 </div>
-<p><sub>GitHub-inspired gradient cards · 点击卡片进入对应仓库</sub></p>
+<p align="center"><sub>GitHub-inspired gradient cards · 点击卡片进入对应仓库</sub></p>
 
 ---
 
@@ -141,8 +134,3 @@
 - **Mission log:** [personal homepage README](https://github.com/dorapan163/dorapan163/blob/main/README.md)
 
 <div align="center"><p><i>May the Fur-ce be with your code.</i></p></div>
-
-</div>
-
-<!-- 清除浮动，防止下面内容错乱 -->
-<br style="clear:both;">
