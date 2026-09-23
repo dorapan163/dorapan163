@@ -50,25 +50,18 @@
 
 <p align="center"><sub>LIVE PROJECTS · 当前执行中的实验与产品任务</sub></p>
 
-<p align="center">
-  <a href="https://github.com/dorapan163/BabyHeart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=BabyHeart&theme=radical&hide_border=true" width="390" alt="BabyHeart repository card" />
-  </a>
-  <a href="https://github.com/dorapan163/AppleScrapy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=AppleScrapy&theme=radical&hide_border=true" width="390" alt="AppleScrapy repository card" />
-  </a>
-</p>
+<!-- Stable image-based cards: avoids external repository-card rendering failures. -->
+<div align="center">
+  <a href="https://github.com/dorapan163/BabyHeart"><img src="https://img.shields.io/badge/BabyHeart-❤%20Fetal%20Monitor-f43f5e?style=for-the-badge&logo=android&logoColor=white" alt="BabyHeart · Android / Deep Learning" /></a>
+  <a href="https://github.com/dorapan163/AppleScrapy"><img src="https://img.shields.io/badge/AppleScrapy-🍎%20Automation-64748b?style=for-the-badge&logo=apple&logoColor=white" alt="AppleScrapy · Python / iOS" /></a>
+</div>
 
-<p align="center">
-  <a href="https://github.com/dorapan163/DroidScrapy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=DroidScrapy&theme=radical&hide_border=true" width="390" alt="DroidScrapy repository card" />
-  </a>
-  <a href="https://github.com/dorapan163/BS_LLM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dorapan163&repo=BS_LLM&theme=radical&hide_border=true" width="390" alt="BS_LLM repository card" />
-  </a>
-</p>
+<div align="center">
+  <a href="https://github.com/dorapan163/DroidScrapy"><img src="https://img.shields.io/badge/DroidScrapy-◉%20Screen%20Capture-22c55e?style=for-the-badge&logo=android&logoColor=white" alt="DroidScrapy · Android / Remote Interaction" /></a>
+  <a href="https://github.com/dorapan163/BS_LLM"><img src="https://img.shields.io/badge/BS__LLM-✦%20AI%20Platform-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" alt="BS_LLM · LLM / LangChain / Web App" /></a>
+</div>
 
-<p align="center"><sub>每张项目卡片均可点击进入对应 GitHub 仓库</sub></p>
+<p align="center"><sub>每张彩色圆角磁贴均可点击进入对应 GitHub 仓库</sub></p>
 
 ---
 
