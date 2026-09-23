@@ -18,24 +18,31 @@
 <div align="center">
   <h2>🛰️ Mission Control / dorapan163</h2>
   <p><i>"Between bits and atoms, we design future interfaces, autonomous systems, and gently robotic dreams."</i></p>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat" width="180" />
 </div>
 
----
-
-### ⚙️ Core Systems
-
-<div align="left">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Research-00C9A7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Embedded-Systems-FFB703?style=flat-square" />
-  <img src="https://img.shields.io/badge/Creative-Hardware-F72585?style=flat-square" />
-  <img src="https://img.shields.io/badge/Interactive-Experiments-7209B7?style=flat-square" />
-</div>
-
-- 🧠 Research direction: AI-assisted interfaces, multimodal intelligence, adaptive robotics
-- 🔧 Engineering focus: Android automation, device interaction, data pipelines, intelligent tooling
-- 🖨️ Experimental stack: 3D printing, soft robotics, human-machine interaction, creative prototyping
-- 🤝 Collaboration model: open technical exchange, research iteration, and build-with-purpose system design
+<table align="center">
+  <tr>
+    <td align="center" width="24%" valign="middle">
+      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat" width="180" />
+    </td>
+    <td align="center" width="76%" valign="middle">
+      <sub>CORE CAPABILITIES</sub><br><br>
+      <div align="left">
+        <img src="https://img.shields.io/badge/AI%20%26%20ML-Research-00C9A7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Embedded-Systems-FFB703?style=flat-square" />
+        <img src="https://img.shields.io/badge/Creative-Hardware-F72585?style=flat-square" />
+        <img src="https://img.shields.io/badge/Interactive-Experiments-7209B7?style=flat-square" />
+      </div>
+      <br>
+      <p align="left">
+        • 🧠 AI-assisted interfaces and adaptive robotics<br>
+        • 🔧 Android automation, device interaction, and intelligent tooling<br>
+        • 🖨️ 3D printing, soft robotics, and creative prototyping<br>
+        • 🤝 Open technical exchange and build-with-purpose iteration
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -45,12 +52,28 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%" valign="top"><a href="https://github.com/dorapan163/BabyHeart"><img src="https://img.shields.io/badge/🟢%20RUNNING-BabyHeart-f43f5e?style=for-the-badge" alt="BabyHeart running" /></a><br><strong>胎儿心跳非多普勒监测</strong><br><sub>Android · Deep Learning<br>生理信号智能分析实验</sub></td>
-    <td align="center" width="50%" valign="top"><a href="https://github.com/dorapan163/AppleScrapy"><img src="https://img.shields.io/badge/🟡%20EXPERIMENT-AppleScrapy-64748b?style=for-the-badge" alt="AppleScrapy experiment" /></a><br><strong>苹果手机自动化</strong><br><sub>Python · iOS<br>设备控制与���动化流程探索</sub></td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/dorapan163/BabyHeart"><img src="https://img.shields.io/badge/🟢%20RUNNING-BabyHeart-f43f5e?style=for-the-badge" alt="BabyHeart running" /></a><br>
+      <strong>胎儿心跳非多普勒监测</strong><br>
+      <sub>Android · Deep Learning<br>生理信号智能分析实验</sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/dorapan163/AppleScrapy"><img src="https://img.shields.io/badge/🟡%20EXPERIMENT-AppleScrapy-64748b?style=for-the-badge" alt="AppleScrapy experiment" /></a><br>
+      <strong>苹果手机自动化</strong><br>
+      <sub>Python · iOS<br>设备控制与自动化流程探索</sub>
+    </td>
   </tr>
   <tr>
-    <td align="center" width="50%" valign="top"><a href="https://github.com/dorapan163/DroidScrapy"><img src="https://img.shields.io/badge/🔵%20OPTIMIZING-DroidScrapy-22c55e?style=for-the-badge" alt="DroidScrapy optimizing" /></a><br><strong>Android 屏幕捕获</strong><br><sub>Android · Remote Interaction<br>远程屏幕采集与设备交互系统</sub></td>
-    <td align="center" width="50%" valign="top"><a href="https://github.com/dorapan163/BS_LLM"><img src="https://img.shields.io/badge/🟣%20EVOLVING-BS__LLM-8b5cf6?style=for-the-badge" alt="BS LLM evolving" /></a><br><strong>AI 智能 HR 综合体</strong><br><sub>LLM · LangChain · Web App<br>大模型驱动的移动设备应用平台</sub></td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/dorapan163/DroidScrapy"><img src="https://img.shields.io/badge/🔵%20OPTIMIZING-DroidScrapy-22c55e?style=for-the-badge" alt="DroidScrapy optimizing" /></a><br>
+      <strong>Android 屏幕捕获</strong><br>
+      <sub>Android · Remote Interaction<br>远程屏幕采集与设备交互系统</sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/dorapan163/BS_LLM"><img src="https://img.shields.io/badge/🟣%20EVOLVING-BS__LLM-8b5cf6?style=for-the-badge" alt="BS LLM evolving" /></a><br>
+      <strong>AI 智能 HR 综合体</strong><br>
+      <sub>LLM · LangChain · Web App<br>大模型驱动的移动设备应用平台</sub>
+    </td>
   </tr>
 </table>
 
@@ -58,7 +81,9 @@
 
 ### 🧪 Lab Stack
 
-<div align="left"><img src="https://skillicons.dev/icons?i=python,android,apple,pytorch,docker,cpp,arduino,raspberrypi&perline=8" alt="technology stack" /></div>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,android,apple,pytorch,docker,cpp,arduino,raspberrypi&perline=8" alt="technology stack" />
+</div>
 
 ---
 
@@ -72,7 +97,9 @@
   <img src="https://img.shields.io/github/commit-activity/y/dorapan163/dorapan163?style=for-the-badge&logo=github&label=Commits&color=00a884" alt="Yearly commit activity" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/dorapan163/dorapan163/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dorapan163/dorapan163/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
 
 ---
 
@@ -82,4 +109,6 @@
 - **Portfolio:** [dorapan163](https://github.com/dorapan163)
 - **Mission log:** [personal homepage README](https://github.com/dorapan163/dorapan163/blob/main/README.md)
 
-<div align="center"><p><i>May the Fur-ce be with your code.</i></p></div>
+<div align="center">
+  <p><i>May the Fur-ce be with your code.</i></p>
+</div>
