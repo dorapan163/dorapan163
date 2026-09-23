@@ -21,12 +21,37 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat" width="180" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/dorapan163/BabyHeart"><img src="https://img.shields.io/badge/❤_BabyHeart-f43f5e?style=for-the-badge&logo=android&logoColor=white" alt="BabyHeart" /></a>&nbsp;
-  <a href="https://github.com/dorapan163/AppleScrapy"><img src="https://img.shields.io/badge/🍎_AppleScrapy-64748b?style=for-the-badge&logo=apple&logoColor=white" alt="AppleScrapy" /></a>&nbsp;
-  <a href="https://github.com/dorapan163/DroidScrapy"><img src="https://img.shields.io/badge/◉_DroidScrapy-22c55e?style=for-the-badge&logo=android&logoColor=white" alt="DroidScrapy" /></a>&nbsp;
-  <a href="https://github.com/dorapan163/BS_LLM"><img src="https://img.shields.io/badge/✦_BS__LLM-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" alt="BS_LLM" /></a>
-</div>
+<!-- Project tiles: compact 2x2 product-style grid -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/dorapan163/BabyHeart">
+        <img src="https://img.shields.io/badge/❤_BabyHeart-f43f5e?style=for-the-badge&logo=android&logoColor=white" alt="BabyHeart" />
+      </a><br />
+      <sub>胎儿心跳监测 · Android / DL</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/dorapan163/AppleScrapy">
+        <img src="https://img.shields.io/badge/🍎_AppleScrapy-64748b?style=for-the-badge&logo=apple&logoColor=white" alt="AppleScrapy" />
+      </a><br />
+      <sub>苹果自动化 · Python / iOS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/dorapan163/DroidScrapy">
+        <img src="https://img.shields.io/badge/◉_DroidScrapy-22c55e?style=for-the-badge&logo=android&logoColor=white" alt="DroidScrapy" />
+      </a><br />
+      <sub>Android 屏幕捕获 · Remote</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/dorapan163/BS_LLM">
+        <img src="https://img.shields.io/badge/✦_BS__LLM-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" alt="BS_LLM" />
+      </a><br />
+      <sub>AI 智能应用 · LLM / LangChain</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center"><sub>PROJECT CHANNELS · 点击磁贴进入对应项目</sub></p>
 
